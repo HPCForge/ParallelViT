@@ -1,7 +1,0 @@
-linearGelu.cpp
-linearGelu_kernel.cu
-setup.py
-linearGelu.egg-info/PKG-INFO
-linearGelu.egg-info/SOURCES.txt
-linearGelu.egg-info/dependency_links.txt
-linearGelu.egg-info/top_level.txt
